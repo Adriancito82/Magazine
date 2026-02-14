@@ -93,6 +93,21 @@ p {
     gap: 20px;
 }
 
+.redes-sociales a {
+    color: #333;
+    font-size: 1.5em;
+    transition: color 0.3s;
+}
+
+.redes-sociales a:hover {
+    color: #ff6347;
+}
+
+.redes-sociales svg {
+    width: 10rem;
+    height: 3rem;
+}
+
 .redes-sociales li {
     list-style: none;
 }
