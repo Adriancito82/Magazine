@@ -1,0 +1,20 @@
+{
+  "name": "magazine",
+  "version": "1.0.0",
+  "description": "Esto será una prueba de como estilar un portal de videojuegos con noticias incluirá imágenes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adriancito82/Magazine.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adriancito82/Magazine/issues"
+  },
+  "homepage": "https://github.com/Adriancito82/Magazine#readme"
+}
