@@ -81,6 +81,37 @@ p {
     margin-bottom: 20px;
 }
 
+#n_destacadas {
+    background-color: #f9f9f9;
+    padding: 15px;
+    margin-top: 20px;
+}
+
+#reseñas {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+#lanzamientos_recientes {
+    background-color: #f9f9f9;
+    padding: 15px;
+    margin-top: 20px;
+}
+
+.imagen-juego {
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h4 {
+    color: #333;
+    margin-top: 10px;
+    font-size: 1.2em;
+}
+
 #contacto {
     background-color: #fff;
     padding: 20px;
